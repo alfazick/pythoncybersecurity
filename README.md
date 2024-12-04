@@ -1,6 +1,6 @@
 # Python Cybersecurity Tools
 
-A collection of Python scripts for cybersecurity tasks and network monitoring.
+Python scripts related to secure programming and network monitoring.
 
 ## Tools
 
